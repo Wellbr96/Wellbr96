@@ -1,6 +1,6 @@
 ## Hello, world! I'm Welerson 😁
 
-## I'm currently studying full stack web development.
+#### I'm currently studying full stack web development.
 
  <div>
    <a href="https://github.com/Wellbr96">
